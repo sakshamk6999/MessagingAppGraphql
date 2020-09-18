@@ -1,0 +1,5 @@
+# Prisma Migrate lockfile v1
+
+20200917215753-init
+20200917223423-added-user-and-message-models
+20200917233317-updated-user-model
